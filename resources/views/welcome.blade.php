@@ -51,7 +51,7 @@
         <section id="hero">
             <div class="container text-center text-white">
                 <div class ="hero-title" data-aos="fade-up"data-aos-anchor-placement="top-bottom">
-                <h1>METABHARATA Official</h1>
+                <h1>METABHARATA Official Test</h1>
                 <h5>Action Side to Side Game Berbasis Kesenian Wayang</h5>
                 </div>
             </div>
